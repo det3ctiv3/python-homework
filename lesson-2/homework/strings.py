@@ -1,5 +1,5 @@
 #1
-from http.cookiejar import join_header_words
+
 
 birth_year = int(input("Enter birth year: "))
 print(f"You are {2025-birth_year} years old.")

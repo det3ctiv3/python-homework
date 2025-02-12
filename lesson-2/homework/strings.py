@@ -1,13 +1,17 @@
 #1
-# birth_year = int(input("Enter birth year: "))
-# print(f"You are {2025-birth_year} years old.")
+from http.cookiejar import join_header_words
+
+birth_year = int(input("Enter birth year: "))
+print(f"You are {2025-birth_year} years old.")
 #2
 txt = 'LMaasleitbtui'
+print(f"{txt[1]}{txt[2]}{txt[5]}{txt[7]}{txt[9]}{txt[11]}")
 
-# 1. Take a string input from the user
+
+#1
 user_input = input("Enter a string: ")
 
-# 2. Print the length of the string
+#2
 print("Length of the string:", len(user_input))
 
 #3

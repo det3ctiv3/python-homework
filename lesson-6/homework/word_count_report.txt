@@ -1,0 +1,4 @@
+Word Count Report
+Total Words: 1
+Top 5 Words:
+sampletxt - 1

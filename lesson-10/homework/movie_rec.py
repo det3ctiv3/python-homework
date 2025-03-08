@@ -1,7 +1,7 @@
 import requests
 import random
 
-api_key = "5dee1d8d8cc20e3352f0ff8317e540e3"
+api_key = "frfrrfrfrfrfrfr"
 
 genres = {
     "action": 28,
